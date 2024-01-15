@@ -4,7 +4,7 @@
 This project runs Chromium directly as the root user without sandboxing. Avoid deploying it in production environments.
 
 ## Heroku installation
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vital987/chrome-novnc)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akviwh/chrome)
 
 ## Manual installation
 ```bash
