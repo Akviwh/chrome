@@ -1,2 +1,2 @@
-FROM vital987/chrome-novnc:latest
+FROM ly4e/kali-gui-container-image:latest
 
